@@ -1,0 +1,26 @@
+{
+  "name": "practice-web-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack src/main.js bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amir-Benyamini/WebPack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amir-Benyamini/WebPack/issues"
+  },
+  "homepage": "https://github.com/Amir-Benyamini/WebPack#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  }
+}
